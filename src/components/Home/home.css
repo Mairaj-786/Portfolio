@@ -1,0 +1,5 @@
+.home {
+    position: relative;
+    color: var(--dark-mode-text-color) !important;
+    transition: 0.2s ease all;
+}
